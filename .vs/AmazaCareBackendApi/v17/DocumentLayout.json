@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\patientappointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\patientappointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\dtos\\patientpersonalinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\dtos\\createmedicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\patientmedicalrecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\patientmedicalrecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\doctorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\doctorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\doctorscheduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\doctorscheduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\doctormedicalrecordservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\doctormedicalrecordservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\doctorappointmentstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\doctorappointmentstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\authenticationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\authenticationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\adminservcicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\adminservcicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\adminpatientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\adminpatientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\admininventoryservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\admininventoryservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\admindoctorscheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\admindoctorscheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\adminbillingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\adminbillingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|c:\\users\\suyas\\onedrive\\desktop\\amazacare\\amazacarebackendapi\\amazecareapitest\\adminappointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23628C4-779F-49F6-9268-2303F4AD7166}|AmazeCareAPITest\\AmazeCareAPITest.csproj|solutionrelative:amazecareapitest\\adminappointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00EC81A-76EA-4C76-91A8-99E1A11F74B7}|..\\..\\Backup Projects\\AmazeCareAPI (Test)\\AmazeCareAPI.csproj|c:\\users\\suyas\\onedrive\\desktop\\backup projects\\amazecareapi (test)\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4bcd4392-dbcf-4aa2-9852-01129d229cd8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Program.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Program.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:02:53.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientPersonalInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\PatientPersonalInfoDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\PatientPersonalInfoDto.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\PatientPersonalInfoDto.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\PatientPersonalInfoDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:52:37.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Services\\PatientService.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Services\\PatientService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:49:57.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\PatientServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\PatientServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\PatientServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\PatientServiceTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:29:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\UserServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\UserServiceTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:35:15.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientAppointmentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\PatientAppointmentServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\PatientAppointmentServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\PatientAppointmentServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\PatientAppointmentServiceTests.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAD4v/AAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:22:02.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateMedicalRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\CreateMedicalRecordDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\CreateMedicalRecordDto.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\CreateMedicalRecordDto.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Dtos\\CreateMedicalRecordDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAAAKkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:43:49.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:43:42.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\Usings.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\Usings.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\Usings.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:35:16.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientMedicalRecordTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\PatientMedicalRecordTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\PatientMedicalRecordTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\PatientMedicalRecordTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\PatientMedicalRecordTests.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAwwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:27:25.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\DoctorServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\DoctorServiceTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:21:00.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorScheduleTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorScheduleTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\DoctorScheduleTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorScheduleTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\DoctorScheduleTests.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:19:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorMedicalRecordServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorMedicalRecordServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\DoctorMedicalRecordServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorMedicalRecordServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\DoctorMedicalRecordServiceTests.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAwwAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:14:47.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorAppointmentsTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorAppointmentsTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\DoctorAppointmentsTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\DoctorAppointmentsTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\DoctorAppointmentsTests.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAswP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:09:41.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AuthenticationServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\AuthenticationServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AuthenticationServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\AuthenticationServiceTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:07:22.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminServciceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminServciceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\AdminServciceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminServciceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\AdminServciceTests.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAswCkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:58:15.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminPatientServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminPatientServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\AdminPatientServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminPatientServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\AdminPatientServiceTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:55:43.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminDoctorScheduleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminDoctorScheduleServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\AdminDoctorScheduleServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminDoctorScheduleServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\AdminDoctorScheduleServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:47:30.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminBillingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminBillingServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\AdminBillingServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminBillingServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\AdminBillingServiceTests.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:45:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminAppointmentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminAppointmentServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\AdminAppointmentServiceTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminAppointmentServiceTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\AdminAppointmentServiceTests.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:42:37.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminInventoryServicesTests.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminInventoryServicesTests.cs",
+              "RelativeDocumentMoniker": "AmazeCareAPITest\\AdminInventoryServicesTests.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\AmazaCare\\AmazaCareBackendApi\\AmazeCareAPITest\\AdminInventoryServicesTests.cs",
+              "RelativeToolTip": "AmazeCareAPITest\\AdminInventoryServicesTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:53:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Services\\AdminService.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:55:17.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\suyas\\OneDrive\\Desktop\\Backup Projects\\AmazeCareAPI (Test)\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "..\\..\\Backup Projects\\AmazeCareAPI (Test)\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAArwBABAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:08:34.846Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
